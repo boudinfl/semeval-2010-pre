@@ -37,3 +37,9 @@ json format for ease of use:
 	
   * `[test|train].[author|reader|combined].[stem].json`: author, reader or
     combined (stemmed or not) reference keyphrases for test or train splits.
+
+If you use this dataset, please cite:
+
+  - **How Document Pre-processing affects Keyphrase Extraction Performance.**
+    Florian Boudin, Hugo Mougard and Damien Cram.
+    *COLING 2016 Workshop on Noisy User-generated Text (WNUT).* 
