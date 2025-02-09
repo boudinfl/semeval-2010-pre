@@ -1,5 +1,7 @@
 # Preprocessed SemEval-2010 Benchmark dataset
 
+* **update 2025/02/09** the dataset is available on huggingface: [https://huggingface.co/datasets/taln-ls2n/semeval-2010-pre](https://huggingface.co/datasets/taln-ls2n/semeval-2010-pre)
+
 If you use this dataset, please cite:
 
   - **How Document Pre-processing affects Keyphrase Extraction Performance.**
